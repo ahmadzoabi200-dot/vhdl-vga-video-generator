@@ -1,0 +1,18 @@
+# Quartus project build artifacts
+db/
+incremental_db/
+output_files/
+simulation/
+
+# Quartus workspace and reports
+*.qws
+*.rpt
+*.pof
+*.sof
+*.jdi
+*.bak
+
+# ModelSim artifacts
+transcript
+*.wlf
+work/
